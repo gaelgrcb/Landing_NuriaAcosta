@@ -47,9 +47,6 @@ export default function About() {
               <p>
                 Creo firmemente en la nutrición integrativa: somos más que lo que comemos. Por eso, en nuestras consultas abordaremos tus hábitos, tu descanso, tu nivel de estrés y tus emociones.
               </p>
-              <p>
-                Con amor. Gael❤️
-              </p>
             </div>
 
             <div className="space-y-4 mb-10">
